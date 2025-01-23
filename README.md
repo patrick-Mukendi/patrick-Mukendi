@@ -1,60 +1,27 @@
 ### Hi there 👋
 
-I create application on the web and share my journey on [Twitter](https://mlv.sh/twitter) and [Youtube](https://mlv.sh/youtube) !
+I create application on the web and mobile and share my journey on [Twitter](https://x.com/_PatrickMukendi) and [Youtube](https://www.youtube.com/@tech_symphony) !
 
-And... I create online courses in french to help developers to master modern web technologies.
 
 ### Contact me
 
-* [Twitter](https://mlv.sh/twitter)
-* [Youtube](https://mlv.sh/youtube)
-* [Mail](mailto:contact@melvynx.com)
-* [Linkedin](https://mlv.sh/linkedin)
-* [Thread](https://mlv.sh/thread)
+* [Twitter](https://x.com/_PatrickMukendi)
+* [Youtube](https://www.youtube.com/@tech_symphony)
+* [Mail](mdipatrick5@.com)
+* [Linkedin](https://www.linkedin.com/in/-patrick-mukendi/)
 
-### My projects
 
-* [Melvynx](https://mlv.sh)
+### My projects 
 
-My personal website, where you can find my projects, my blog and my resume.
+* [Learn PHP](https://github.com/patrick-Mukendi/treaning)
 
-* [Codelynx](https://mlv.sh/codelynx)
 
-My blog and my newsletter website.
-
-* [Codeline](https://mlv.sh/codeline)
-
-My online courses plateforme. I created BeginReact, NextReact and BeginJavaScript.
-
-* [Chat2Code](https://mlv.sh/chat2code)
-
-A ChatGPT like application that create and generate component directly in the browser. Stop wasting time copy pasting code from ChatGPT to your editor, Chat2Code bring editor in the chat.
-
-* [QuizUp](https://mlv.sh/quizup)
-
-Create a quiz with multiple choice and open questions with input. The next generation of quiz.
-
-* [BulkCorrector](https://mlv.sh/bulkcorrector)
-
-Correct the grammar of an entire book in 5 minutes.
-
-* [LinkedLeads](https://mlv.sh/linkedleads)
-
-Accept all your invitations on LinkedIn.
-
-* [PowerPost](https://mlv.sh/powerpost)
-
-Start reading posts FASTER.
-
-* [PowerNote](https://mlv.sh/powernote)
-
-Create a daily note without any friction.
 
 ### Visitor count
 
 <img src="https://profile-counter.glitch.me/Melvynx/count.svg" />
 
-Added the `Mon 3 Jan 2022`
+Added the `Mon 23 Jan 2025`
 
 Last update on Thu Jan 23 2025
 
