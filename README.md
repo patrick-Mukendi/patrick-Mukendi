@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src="images/melvynx.com.png" />
 I create application on the web and mobile and share my journey on [Twitter](https://x.com/_PatrickMukendi) and [Youtube](https://www.youtube.com/@tech_symphony) !
 
 
