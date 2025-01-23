@@ -1,0 +1,22 @@
+{
+  "name": "melvynx",
+  "version": "1.0.0",
+  "description": "I prefer web and mobile for now",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrick-Mukendi/readme-master.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrick-Mukendi/readme-master/issues"
+  },
+  "homepage": "https://github.com/patrick-Mukendi/readme-master/#readme",
+  "devDependencies": {
+    "eslint": "^7.30.0"
+  }
+}
