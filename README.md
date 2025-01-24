@@ -1,6 +1,5 @@
 ### Hi there 👋
 I'm Patrick Mukendi Nyanguila alias M'di
-
 <img src="images/melvynx.com.png" />
 I create application on the web and mobile and share my journey on [Twitter](https://x.com/_PatrickMukendi) and [Youtube](https://www.youtube.com/@tech_symphony) !
 
@@ -27,6 +26,6 @@ Added the `Mon 23 Jan 2025`
 
 Last update on Fri Jan 24 2025
 
-**342 day before 2026 ⏱** days before new years
+**341 day before 2026 ⏱** days before new years
 
 🤖 This README.md is updated with horror, by Gabot ❤️
