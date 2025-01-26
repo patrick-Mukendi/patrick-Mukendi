@@ -24,8 +24,8 @@ I create application on the web and mobile and share my journey on [Twitter](htt
 
 Added the `Mon 23 Jan 2025`
 
-Last update on Sat Jan 25 2025
+Last update on Sun Jan 26 2025
 
-**341 day before 2026 ⏱** days before new years
+**340 day before 2026 ⏱** days before new years
 
-🤖 This README.md is updated with love, by Gabot ❤️
+🤖 This README.md is updated with hate, by Gabot ❤️
