@@ -15,6 +15,8 @@ I create application on the web and mobile and share my journey on [Twitter](htt
 ### My projects 
 
 * [Learn PHP](https://github.com/patrick-Mukendi/treaning)
+* [Bibliotheque Virtuelle](https://github.com/patrick-Mukendi/biblioslast)
+* [Youtube Download](https://github.com/patrick-Mukendi/Youtube-download--all-videos-channel)
 
 
 
