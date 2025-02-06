@@ -4,7 +4,7 @@ I'm Patrick Mukendi Nyanguila alias M'di
 I create application on the web and mobile and share my journey on [Twitter](https://x.com/_PatrickMukendi) and [Youtube](https://www.youtube.com/@tech_symphony) !
 
 
--- ### Contact me
+### Contact me
 
 * [Twitter](https://x.com/_PatrickMukendi)
 * [Youtube](https://www.youtube.com/@tech_symphony)
@@ -12,7 +12,7 @@ I create application on the web and mobile and share my journey on [Twitter](htt
 * [Linkedin](https://www.linkedin.com/in/-patrick-mukendi/)
 
 
--- ### My projects 
+### My projects 
 
 * [Learn PHP](https://github.com/patrick-Mukendi/treaning)
 * [Bibliotheque Virtuelle](https://github.com/patrick-Mukendi/biblioslast)
@@ -20,14 +20,14 @@ I create application on the web and mobile and share my journey on [Twitter](htt
 
 
 
--- ### Visitor count
+### Visitor count
 
 <img src="https://profile-counter.glitch.me/Melvynx/count.svg" />
 
 Added the `Mon 23 Jan 2025`
 
-Last update on Wed Jan 29 2025
+Last update on Thu Feb 06 2025
 
-**337 day before 2026 ⏱** days before new years
+**328 day before 2026 ⏱** days before new years
 
-🤖 This README.md is updated with wickedness, by Gabot ❤️
+🤖 This README.md is updated with cruelty, by Gabot ❤️
